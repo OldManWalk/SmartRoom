@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">智慧教室</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">控制</string>
+    <string name="title_notifications">设备信息</string>
+    <string name="tab_text_1">课程</string>
+    <string name="tab_text_2">学生信息</string>
+    <string name="title_activity_addstudent">addstudentActivity</string>
+    <string name="prompt_name">姓名</string>
+    <string name="prompt_password">手机号码</string>
+    <string name="action_sign_in">保存学生信息</string>
+</resources>
